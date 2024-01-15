@@ -1,4 +1,4 @@
-<h2 align="left">Hi, my name is Mylena, and I'm a computer engineering student 🤖👋</h2>
+<h2 align="left">Hello, I'm Mylena, and I'm a computer engineering student 🤖👋</h2>
 
 ###
 
@@ -16,28 +16,4 @@
 
 ###
 
-<h4 align="left">• Currently working on automation and IoT projects<br>•  Studying Java programming - Oracle at SENAI São Paulo<br>•  Passionate about astronomy, cats, and coffee</h4>
-
-###
-
-<div align="left">
-  <img src="https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=black&style=for-the-badge" height="25" alt="c logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white&style=for-the-badge" height="25" alt="cplusplus logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/Arduino-00979D?logo=arduino&logoColor=white&style=for-the-badge" height="25" alt="arduino logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/Raspberry Pi-A22846?logo=raspberrypi&logoColor=white&style=for-the-badge" height="25" alt="raspberrypi logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/IntelliJ IDEA-000000?logo=intellijidea&logoColor=white&style=for-the-badge" height="25" alt="intellij logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge" height="25" alt="git logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge" height="25" alt="github logo"  />
-</div>
-
-###
-
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mylena13s&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=true" height="146" alt="languages graph"  />
-</div>
+<h4 align="left">• Currently working on automation and IoT projects<br>•  Studying Java programming - Oracle at SENAI São Paulo<br>•  Passionate about astronomy, cats, and coffee</h4
