@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">• Studying Computer Engineering at UNIVESP.<br>•  Focused on automation and IoT projects.<br>•  Passionate about astronomy, cats, and coffee ☕🌌🐱.</p>
+<p align="left">•  Industrial Automation Intern at M.A.T.<br>• Studying Computer Engineering at UNIVESP.<br>•  Focused on automation and IoT projects.<br>•  Passionate about astronomy, cats, and coffee ☕🌌🐱.</p>
 
 ###
 
