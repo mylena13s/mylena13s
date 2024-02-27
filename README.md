@@ -28,8 +28,6 @@
   <img width="5" />
   <img src="https://img.shields.io/badge/C++-FFA9B2?logo=cplusplus&logoColor=black&style=for-the-badge" height="33" alt="cplusplus logo"  />
   <img width="5" />
-  <img src="https://img.shields.io/badge/Assembly-FFA9B2?style=for-the-badge&logo=Assembly&logoColor=black" height="33" alt="assembly logo"  />
-  <img width="5" />
   <img src="https://img.shields.io/badge/Java-FFA9B2?style=for-the-badge&logo=openjdk&logoColor=black" height="33" alt="intellij logo"  />
   <img width="5" />
   <img src="https://img.shields.io/badge/Arduino-FFA9B2?logo=arduino&logoColor=black&style=for-the-badge" height="33" alt="arduino logo"  />
