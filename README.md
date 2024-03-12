@@ -7,7 +7,7 @@
 <table>
     <tr>
         <td style="vertical-align: top;">
-            <p>✦ Electrical & Electronic Intern.<br>✦ Studying Computer Engineering at UNIVESP.<br>✦ Focused on automation and IoT projects.<br>✦ Passionate about astronomy, cats, and coffee ☕🌌🐱.</p>
+            <p>✦ Electrical & Electronic Intern.<br>✦ Studying Computer Engineering at UNIVESP.<br>✦ Focused on IoT projects.<br>✦ Passionate about astronomy, cats, and coffee ☕🌌🐱.</p>
         </td>
         <td style="vertical-align: top;">
             <a href="https://giphy.com/gifs/IntoAction-day-diegodrawsart-women-and-girls-in-science-hmdApHQb2hdfdKu6jg">
