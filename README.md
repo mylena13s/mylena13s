@@ -1,7 +1,7 @@
 ### Hello, world! I'm Mylena. 
 
 <h4 align="left">About me:</h4>
-<h5>✦ Engineering and Robotics Intern.<br>✦ Studying Computer Engineering at UNIVESP.<br>✦ Focused on Data engineering.<br>✦ Passionate about anime, cats, and coffee ☕🌌🐱.</h5>
+<h5>✦ Engineering and Robotics Intern.<br>✦ Studying Computer Engineering at UNIVESP.<br>✦ Focused on Data engineering.<br>✦ Passionate about anime, cats, and coffee ☕🐱.</h5>
 
 <div align="left">
 </div>
