@@ -1,7 +1,7 @@
 ### About me
-Hello, world! I'm Mylena
+Hello, world! I'm Mylena 
 
-I'm a Junior Data Engineer studying Computer Engineering at UNIVESP
+I'm a Junior Data Engineer studying Computer Engineering at UNIVESP 📊 
 
 ### Program languages / Tools / Systems / Frameworks / Database 
 
