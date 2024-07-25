@@ -6,6 +6,6 @@ Hello, world! My name is Mylena. I'm from Brazil and I'm a Data Engineer. I'm cu
 📊 Python, C++, SQL, MongoDB, Databricks, Git, Numpy, Flask, Pandas, Jupyter, PySpark, PowerBi, Vscode.
 
 #### How to contact me
-* LinkedIn: [Mylena Santos](https://www.linkedin.com/in/mylena13s/)
+* LinkedIn: [Mylena Silva](https://www.linkedin.com/in/mylena13s/)
 * E-mail: mylena13s@outlook.com
   
