@@ -10,5 +10,4 @@ Hello, world! My name is Mylena. I'm from Brazil and I'm currently a student of 
 #### How to contact me
 * LinkedIn: [Mylena Silva](https://www.linkedin.com/in/mylena13s/)
 * E-mail: mylena13s@outlook.com
-* Study journey: [Datawithmi](https://www.instagram.com/datawithmi/)
   
