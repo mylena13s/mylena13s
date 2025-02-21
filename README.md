@@ -4,7 +4,7 @@ My name is Mylena, I'm from Brazil and I'm currently a student of Computer Engin
 
 📊 Passionate about Machine Learning and Data Science
 
-🏦 I’m currently working at **Santander Bank**
+📌 I’m currently working at **Santander Bank**
 
 How to reach me:
 * LinkedIn: [Mylena Silva](https://www.linkedin.com/in/mylena13s/)
