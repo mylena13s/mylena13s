@@ -2,7 +2,7 @@
 
 My name is Mylena, I'm from Brazil and I'm currently a student of Computer Engineering at UNIVESP, the Virtual University of the State of São Paulo.
 
-📊 Passionate about Machine Learning
+📊 Passionate about Machine Learning and Data Science
 
 🏦 I’m currently working at **Santander Bank**
 
