@@ -1,15 +1,8 @@
-## Hello! 
+### Hello! 👋
 
-My name is Mylena, I'm from Brazil and I'm currently a student of Computer Engineering at UNIVESP, the Virtual University of the State of São Paulo.
+- 📒 Computer Engineering student at @univesp.
+- 🌱 Learning more about Cloud Architecture and Artificial Intelligence.
+- 🔭 Machine Learning and Data Science.
+- 📌 I’m currently working at Santander Bank.
+- 📫 [LinkedIn](https://www.linkedin.com/in/mylena13s/)
 
-📊 Passionate about Machine Learning and Data Science
-
-📌 I’m currently working at **Santander Bank**
-
-How to reach me:
-* LinkedIn: [Mylena Silva](https://www.linkedin.com/in/mylena13s/)
-* E-mail: mylena13s@outlook.com
-
-  
-
-<img src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/bonefire.gif" width="200"/>
